@@ -3,4 +3,4 @@
 *.iml
 
 # Ignore build output directories
-out/ 
+out/

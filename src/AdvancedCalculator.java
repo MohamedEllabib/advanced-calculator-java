@@ -15,7 +15,7 @@ public class AdvancedCalculator {
             System.out.println("4: Division");
             System.out.println("5: Exit");
             System.out.print("Choose an option: ");
-
+            
             int choice = scanner.nextInt();
 
             if (choice == 5) {
